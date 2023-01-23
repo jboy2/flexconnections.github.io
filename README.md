@@ -18,7 +18,7 @@
     <main>
       <section id="about">
         <h1>About Us</h1>
-        <p>Here you can provide information about your company or organization.</p>
+        <p>We provided IT services and solutions.</p>
       </section>
       <section id="services">
         <h1>Our Services</h1>
