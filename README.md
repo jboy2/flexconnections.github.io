@@ -31,11 +31,11 @@
       <section id="contact">
         <h1>Contact Us</h1>
         <form>
-          <label for="name">Ebuka Felix:</label>
+          <label for="name">Name: Ebuka Felix:</label>
           <input type="text" id="name" name="name"><br>
-          <label for="email">junior.felix@protonmail.ca:</label>
+          <label for="email">Email: ebuka.felix@flexconnections.ca</label>
           <input type="email" id="email" name="email"><br>
-          <label for="message">Message:</label>
+          <label for="message">Message: Provided information about about services.</label>
           <textarea id="message" name="message"></textarea><br>
           <input type="submit" value="Send">
         </form>
